@@ -21,7 +21,7 @@ To install the plugin follow this [thread](https://stackoverflow.com/questions/2
 
 after that load the pcap file in wireshark 
 
-![](/toobeetootee/img/1.png)
+![](https://github.com/naughtyboy191/CTF-Writups/blob/6fe0dc8cc7b4af3beeb6b73f8cfa740ff8e0f497/toobeetootee/img/1.PNG)
 
 Here you can play around and look at the different types of server/client commands being sent via udp
 
