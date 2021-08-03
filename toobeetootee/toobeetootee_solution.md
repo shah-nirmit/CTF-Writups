@@ -93,7 +93,7 @@ start minetest
 
 >Note: make sure to add the miney mod to your world using `configure` button for miney to communicate with your world
 
-![](./img/7.png)
+![](./img/7.PNG)
 
 open the world by clicking "Playgame"
 
@@ -118,8 +118,7 @@ mt.node.set(pts)
 
 If all went well you should see the initial flag modify
 
-![](./img/5.png)
-![](./img/6.png)
+<img src="./img/5.PNG" width="425"/> <img src="./img/6.PNG" width="425"/> 
 
 >Its not that clear but the flag is **uiuctf{BudG3t_c4ves_N_cl1fFs}**
 
