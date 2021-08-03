@@ -85,7 +85,7 @@ paste the world folder(renamed it to uiuctf)  here
 after that start `miney_launcher.exe`
 
 
-![](./img/3.png)
+![](./img/3.PNG)
 
 start minetest
 
