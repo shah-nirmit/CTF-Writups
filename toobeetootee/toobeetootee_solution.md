@@ -21,13 +21,13 @@ To install the plugin follow this [thread](https://stackoverflow.com/questions/2
 
 after that load the pcap file in wireshark 
 
-![](./img/1.png)
+![](/toobeetootee/img/1.png)
 
 Here you can play around and look at the different types of server/client commands being sent via udp
 
 The command that we are most interested in is **Command: TOSERVER_INTERACT (0x0039)**
 
-![](./img/2.png)
+![](/toobeetootee/img/2.png)
 
 there are typically 6 actions 
 
@@ -85,7 +85,7 @@ paste the world folder(renamed it to uiuctf)  here
 after that start `miney_launcher.exe`
 
 
-![](./img/3.png)
+![](/toobeetootee/img/3.png)
 
 start minetest
 
