@@ -27,7 +27,7 @@ Here you can play around and look at the different types of server/client comman
 
 The command that we are most interested in is **Command: TOSERVER_INTERACT (0x0039)**
 
-![](/toobeetootee/img/2.png)
+![](toobeetootee/img/2.PNG)
 
 there are typically 6 actions 
 
@@ -85,15 +85,15 @@ paste the world folder(renamed it to uiuctf)  here
 after that start `miney_launcher.exe`
 
 
-![](/toobeetootee/img/3.png)
+![](toobeetootee/img/3.png)
 
 start minetest
 
-![](./img/4.png)
+![](toobeetootee/img/4.PNG)
 
 >Note: make sure to add the miney mod to your world using `configure` button for miney to communicate with your world
 
-![](./img/7.png)
+![](toobeetootee/img/7.png)
 
 open the world by clicking "Playgame"
 
