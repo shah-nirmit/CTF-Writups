@@ -118,7 +118,8 @@ mt.node.set(pts)
 
 If all went well you should see the initial flag modify
 
-<img src="./img/5.png" width="425"/> <img src="./img/6.png" width="425"/> 
+![](./img/5.png)
+![](./img/6.png)
 
 >Its not that clear but the flag is **uiuctf{BudG3t_c4ves_N_cl1fFs}**
 
